@@ -1,17 +1,21 @@
-# portfolio-template-python-ml
+# ancla-d-data-platform-climate-energy-pipeline
 
-Plantilla base para proyectos de portafolio en análisis de datos ambientales, machine learning, forecasting, GIS y energía.
+## TL;DR
+Proyecto de portafolio enfocado en construir un pipeline reproducible para datos de clima y energía, con componentes de data engineering y MLOps.
 
-## Estructura
+## Data
+Se trabajará con datasets ambientales y energéticos integrados en un flujo de ingestión, transformación y consumo analítico.
 
-- `src/`: código fuente principal
-- `notebooks/`: exploración y prototipos
-- `data/`: datos y documentación de fuentes
-- `reports/`: resultados y reportes
-- `docs/`: documentación del proyecto
-- `tests/`: pruebas
-- `.github/workflows/`: automatizaciones
+## Cómo correr
+1. Clonar el repositorio  
+2. Instalar dependencias  
+3. Ejecutar scripts de ingestión y transformación  
+4. Validar datos procesados  
+5. Ejecutar componentes de entrenamiento o servicio
 
-## Uso
+## Estado
+🚧 En progreso.  
+Actualmente en diseño de arquitectura del pipeline y definición del flujo de trabajo reproducible.
 
-Este repositorio será usado como plantilla para crear proyectos ancla y satélite de mi portafolio profesional.
+## Objetivo profesional
+Este proyecto busca demostrar habilidades en ingeniería de datos, automatización, organización profesional de proyectos y despliegue básico de soluciones analíticas.
